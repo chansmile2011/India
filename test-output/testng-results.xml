@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="160" started-at="2019-11-11T07:27:45Z" finished-at="2019-11-11T07:27:45Z">
+  <suite name="Default suite" duration-ms="156" started-at="2019-12-25T13:22:22Z" finished-at="2019-12-25T13:22:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="160" started-at="2019-11-11T07:27:45Z" finished-at="2019-11-11T07:27:45Z">
-      <class name="Pom_test.org.testers.Testing1">
-        <test-method status="PASS" signature="Tried()[pri:0, instance:Pom_test.org.testers.Testing1@4cc0edeb]" name="Tried" duration-ms="123" started-at="2019-11-11T07:27:45Z" finished-at="2019-11-11T07:27:45Z">
+    <test name="Default test" duration-ms="156" started-at="2019-12-25T13:22:22Z" finished-at="2019-12-25T13:22:22Z">
+      <class name="Justcheck.Test1">
+        <test-method status="PASS" signature="Tried()[pri:0, instance:Justcheck.Test1@4cc0edeb]" name="Tried" duration-ms="125" started-at="2019-12-25T13:22:22Z" finished-at="2019-12-25T13:22:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Tried -->
-      </class> <!-- Pom_test.org.testers.Testing1 -->
+      </class> <!-- Justcheck.Test1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
